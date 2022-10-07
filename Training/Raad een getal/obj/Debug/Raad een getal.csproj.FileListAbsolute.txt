@@ -1,0 +1,20 @@
+C:\Users\tacor\source\repos\Raad een getal\bin\Debug\Raad een getal.exe.config
+C:\Users\tacor\source\repos\Raad een getal\bin\Debug\Raad een getal.exe
+C:\Users\tacor\source\repos\Raad een getal\bin\Debug\Raad een getal.pdb
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad een getal.csproj.AssemblyReference.cache
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad_een_getal.Form1.resources
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad_een_getal.Properties.Resources.resources
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad een getal.csproj.GenerateResource.cache
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad een getal.csproj.CoreCompileInputs.cache
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad een getal.exe
+C:\Users\tacor\source\repos\Raad een getal\obj\Debug\Raad een getal.pdb
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\bin\Debug\Raad een getal.exe.config
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\bin\Debug\Raad een getal.exe
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\bin\Debug\Raad een getal.pdb
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad een getal.csproj.AssemblyReference.cache
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad_een_getal.Form1.resources
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad_een_getal.Properties.Resources.resources
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad een getal.csproj.GenerateResource.cache
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad een getal.csproj.CoreCompileInputs.cache
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad een getal.exe
+C:\Users\tacor\Nextcloud2\HBO\ICT\Software\Visual studio\Wedstrijd\Raad een getal\obj\Debug\Raad een getal.pdb

@@ -1,0 +1,10 @@
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\bin\Debug\Training - Array - Woordvervormer.exe.config
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\bin\Debug\Training - Array - Woordvervormer.exe
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\bin\Debug\Training - Array - Woordvervormer.pdb
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training - Array - Woordvervormer.csproj.AssemblyReference.cache
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training___Array___Woordvervormer.Form1.resources
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training___Array___Woordvervormer.Properties.Resources.resources
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training - Array - Woordvervormer.csproj.GenerateResource.cache
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training - Array - Woordvervormer.csproj.CoreCompileInputs.cache
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training - Array - Woordvervormer.exe
+C:\Users\tacor\source\repos\Training - Array - Woordvervormer\obj\Debug\Training - Array - Woordvervormer.pdb
