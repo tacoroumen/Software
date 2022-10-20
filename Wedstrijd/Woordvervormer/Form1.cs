@@ -13,7 +13,7 @@ namespace Training___Array___Woordvervormer
     public partial class Form1 : Form
     {
         public int textlength;
-        public char[] reverse = new char[100];
+        public char[] reverse;
         public char[] LetterArray;
         public char[] upper;
         public Form1()
@@ -41,6 +41,7 @@ namespace Training___Array___Woordvervormer
         public void flip_Click(object sender, EventArgs e)
         {
             make_array();
+            reverse = new char[textlength];
             for (int i = 0; textlength > 0; i++)
             {
                 reverse[i] = LetterArray[textlength-1];
