@@ -122,5 +122,10 @@ namespace Training_Blackjack__light_
             Application.Restart();
             
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

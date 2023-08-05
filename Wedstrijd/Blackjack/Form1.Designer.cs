@@ -40,7 +40,7 @@ namespace Training_Blackjack__light_
             // 
             // Deal
             // 
-            this.Deal.Location = new System.Drawing.Point(356, 278);
+            this.Deal.Location = new System.Drawing.Point(88, 91);
             this.Deal.Name = "Deal";
             this.Deal.Size = new System.Drawing.Size(75, 23);
             this.Deal.TabIndex = 0;
@@ -50,7 +50,7 @@ namespace Training_Blackjack__light_
             // 
             // Hit
             // 
-            this.Hit.Location = new System.Drawing.Point(430, 307);
+            this.Hit.Location = new System.Drawing.Point(162, 120);
             this.Hit.Name = "Hit";
             this.Hit.Size = new System.Drawing.Size(75, 23);
             this.Hit.TabIndex = 1;
@@ -61,7 +61,7 @@ namespace Training_Blackjack__light_
             // 
             // Stand
             // 
-            this.Stand.Location = new System.Drawing.Point(282, 307);
+            this.Stand.Location = new System.Drawing.Point(14, 120);
             this.Stand.Name = "Stand";
             this.Stand.Size = new System.Drawing.Size(75, 23);
             this.Stand.TabIndex = 2;
@@ -73,7 +73,7 @@ namespace Training_Blackjack__light_
             // CardVallue
             // 
             this.CardVallue.AutoSize = true;
-            this.CardVallue.Location = new System.Drawing.Point(385, 196);
+            this.CardVallue.Location = new System.Drawing.Point(117, 9);
             this.CardVallue.Name = "CardVallue";
             this.CardVallue.Size = new System.Drawing.Size(16, 17);
             this.CardVallue.TabIndex = 3;
@@ -87,7 +87,7 @@ namespace Training_Blackjack__light_
             // 
             // Restart
             // 
-            this.Restart.Location = new System.Drawing.Point(356, 346);
+            this.Restart.Location = new System.Drawing.Point(88, 159);
             this.Restart.Name = "Restart";
             this.Restart.Size = new System.Drawing.Size(75, 23);
             this.Restart.TabIndex = 4;
@@ -100,7 +100,7 @@ namespace Training_Blackjack__light_
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(253, 202);
             this.Controls.Add(this.Restart);
             this.Controls.Add(this.CardVallue);
             this.Controls.Add(this.Stand);
@@ -108,6 +108,7 @@ namespace Training_Blackjack__light_
             this.Controls.Add(this.Deal);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
